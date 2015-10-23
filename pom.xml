@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>vefaval</name>
-	<description>Demo project for Spring Boot</description>
+	<description>REST API in front of DIFI's Vefa Validator.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
